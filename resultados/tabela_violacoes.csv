@@ -1,0 +1,29 @@
+modelo,mr,nome_mr,casos_avaliados,violacoes,taxa_violacao_%,ic95_inf_%,ic95_sup_%,indeterminados
+gpt-oss-120b,MR1,Sinonímia,81,6,7.41,3.44,15.23,0
+gpt-oss-120b,MR2,Registro informal,95,2,2.11,0.58,7.35,0
+gpt-oss-120b,MR3,Escrita informal,98,4,4.08,1.6,10.03,0
+gpt-oss-120b,MR4,Paráfrase sintática,87,3,3.45,1.18,9.65,0
+gpt-oss-120b,MR5,Variação regional,18,2,11.11,3.1,32.8,0
+gpt-oss-120b,MR6,Negação da hipótese,38,0,0.0,0.0,9.18,0
+gpt-oss-120b,MR7,Troca de gênero,62,3,4.84,1.66,13.29,0
+qwen3-4b,MR1,Sinonímia,81,8,9.88,5.09,18.3,0
+qwen3-4b,MR2,Registro informal,95,5,5.26,2.27,11.74,0
+qwen3-4b,MR3,Escrita informal,98,2,2.04,0.56,7.14,0
+qwen3-4b,MR4,Paráfrase sintática,87,5,5.75,2.48,12.76,0
+qwen3-4b,MR5,Variação regional,18,1,5.56,0.99,25.76,0
+qwen3-4b,MR6,Negação da hipótese,11,0,0.0,0.0,25.88,0
+qwen3-4b,MR7,Troca de gênero,62,2,3.23,0.89,11.02,0
+qwen3-8b,MR1,Sinonímia,81,4,4.94,1.94,12.02,0
+qwen3-8b,MR2,Registro informal,95,7,7.37,3.61,14.44,0
+qwen3-8b,MR3,Escrita informal,98,4,4.08,1.6,10.03,0
+qwen3-8b,MR4,Paráfrase sintática,87,2,2.3,0.63,8.0,0
+qwen3-8b,MR5,Variação regional,18,0,0.0,0.0,17.59,0
+qwen3-8b,MR6,Negação da hipótese,11,0,0.0,0.0,25.88,0
+qwen3-8b,MR7,Troca de gênero,62,0,0.0,0.0,5.83,0
+tucano2-3.7b,MR1,Sinonímia,81,2,2.47,0.68,8.56,0
+tucano2-3.7b,MR2,Registro informal,95,1,1.05,0.19,5.72,0
+tucano2-3.7b,MR3,Escrita informal,98,1,1.02,0.18,5.56,0
+tucano2-3.7b,MR4,Paráfrase sintática,87,4,4.6,1.8,11.23,0
+tucano2-3.7b,MR5,Variação regional,18,0,0.0,0.0,17.59,0
+tucano2-3.7b,MR6,Negação da hipótese,6,0,0.0,0.0,39.03,0
+tucano2-3.7b,MR7,Troca de gênero,62,1,1.61,0.29,8.59,0

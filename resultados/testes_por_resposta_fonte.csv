@@ -1,0 +1,13 @@
+resposta_fonte,modelo_a,modelo_b,taxa_a_%,taxa_b_%,p_valor_fisher
+NAO,gpt-oss-120b,qwen3-4b,3.49,3.08,0.823
+NAO,gpt-oss-120b,qwen3-8b,3.49,0.76,0.0156
+NAO,gpt-oss-120b,tucano2-3.7b,3.49,1.45,0.106
+NAO,qwen3-4b,qwen3-8b,3.08,0.76,0.0194
+NAO,qwen3-4b,tucano2-3.7b,3.08,1.45,0.153
+NAO,qwen3-8b,tucano2-3.7b,0.76,1.45,0.507
+SIM,gpt-oss-120b,qwen3-4b,6.01,21.15,0.0023
+SIM,gpt-oss-120b,qwen3-8b,6.01,29.79,3.06e-05
+SIM,gpt-oss-120b,tucano2-3.7b,6.01,11.54,0.391
+SIM,qwen3-4b,qwen3-8b,21.15,29.79,0.361
+SIM,qwen3-4b,tucano2-3.7b,21.15,11.54,0.363
+SIM,qwen3-8b,tucano2-3.7b,29.79,11.54,0.091

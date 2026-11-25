@@ -1,0 +1,9 @@
+modelo,resposta_fonte,casos_avaliados,violacoes,taxa_violacao_%,ic95_inf_%,ic95_sup_%
+gpt-oss-120b,NAO,258,9,3.49,1.85,6.5
+gpt-oss-120b,SIM,183,11,6.01,3.39,10.44
+qwen3-4b,NAO,389,12,3.08,1.77,5.31
+qwen3-4b,SIM,52,11,21.15,12.24,34.03
+qwen3-8b,NAO,394,3,0.76,0.26,2.21
+qwen3-8b,SIM,47,14,29.79,18.65,43.98
+tucano2-3.7b,NAO,415,6,1.45,0.66,3.12
+tucano2-3.7b,SIM,26,3,11.54,4.0,28.98

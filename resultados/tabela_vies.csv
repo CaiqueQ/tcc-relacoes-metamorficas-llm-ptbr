@@ -1,0 +1,6 @@
+modelo,respostas_SIM_%,acuracia_%,acerto_com_implicacao_%,acerto_sem_implicacao_%
+gpt-oss-120b,40.0,88.0,78.0,98.0
+qwen3-4b,11.0,61.0,22.0,100.0
+qwen3-8b,11.0,61.0,22.0,100.0
+tucano2-3.7b,6.0,56.0,12.0,100.0
+linha de base: sempre NÃO,0.0,50.0,0.0,100.0

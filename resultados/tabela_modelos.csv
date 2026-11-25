@@ -1,0 +1,5 @@
+modelo,acuracia_fonte,entradas_instaveis_%,respostas_invalidas_%,entradas,inicio_execucao,fim_execucao
+gpt-oss-120b,0.88,0.678,0.0,590,2026-10-29,2026-10-30
+qwen3-4b,0.61,0.0,0.0,590,2026-10-29,2026-10-29
+qwen3-8b,0.61,0.0,0.0,590,2026-10-29,2026-10-29
+tucano2-3.7b,0.56,0.0,0.0,590,2026-10-29,2026-10-29

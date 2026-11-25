@@ -1,0 +1,120 @@
+{"modelo": "gpt-oss-120b", "id_caso": "F000", "repeticao": 0, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T12:52:06.851805+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F000", "repeticao": 1, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T12:52:07.970014+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F000", "repeticao": 2, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T12:52:10.243079+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F001", "repeticao": 0, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T12:52:12.276707+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F001", "repeticao": 1, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T12:52:14.678767+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F001", "repeticao": 2, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T12:52:16.804757+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F002", "repeticao": 0, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T12:52:19.006451+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F002", "repeticao": 1, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T12:52:21.176829+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F002", "repeticao": 2, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T12:52:23.210170+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F003", "repeticao": 0, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T12:52:25.391111+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F003", "repeticao": 1, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T12:52:27.814029+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F003", "repeticao": 2, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T12:52:30.030434+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F004", "repeticao": 0, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T12:52:32.174388+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F004", "repeticao": 1, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T12:52:34.388345+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F004", "repeticao": 2, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T12:52:36.601682+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F098-MR7", "repeticao": 0, "resposta_bruta": "SIM", "resposta": "SIM", "horario": "2026-10-29T12:52:38.653970+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F098-MR7", "repeticao": 1, "resposta_bruta": "SIM", "resposta": "SIM", "horario": "2026-10-29T12:52:41.044807+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F098-MR7", "repeticao": 2, "resposta_bruta": "SIM", "resposta": "SIM", "horario": "2026-10-29T12:52:43.155953+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F099-MR2", "repeticao": 0, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T12:52:45.555090+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F099-MR2", "repeticao": 1, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T12:52:47.712366+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F099-MR2", "repeticao": 2, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T12:52:49.657856+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F099-MR3", "repeticao": 0, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T12:52:51.960707+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F099-MR3", "repeticao": 1, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T12:52:54.003456+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F099-MR3", "repeticao": 2, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T12:52:56.450362+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F099-MR4", "repeticao": 0, "resposta_bruta": "SIM", "resposta": "SIM", "horario": "2026-10-29T12:52:58.519713+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F099-MR4", "repeticao": 1, "resposta_bruta": "SIM", "resposta": "SIM", "horario": "2026-10-29T12:53:00.861282+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F099-MR4", "repeticao": 2, "resposta_bruta": "SIM", "resposta": "SIM", "horario": "2026-10-29T12:53:03.997877+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F099-MR6", "repeticao": 0, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T12:53:05.022140+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F099-MR6", "repeticao": 1, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T12:53:07.274952+00:00"}
+{"modelo": "gpt-oss-120b", "id_caso": "F099-MR6", "repeticao": 2, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T12:53:09.806883+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F000", "repeticao": 0, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:04.388851+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F000", "repeticao": 1, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:04.659159+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F000", "repeticao": 2, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:04.920373+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F001", "repeticao": 0, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:05.211040+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F001", "repeticao": 1, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:05.478333+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F001", "repeticao": 2, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:05.740640+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F002", "repeticao": 0, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:06.023095+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F002", "repeticao": 1, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:06.300992+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F002", "repeticao": 2, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:06.565209+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F003", "repeticao": 0, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:06.826781+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F003", "repeticao": 1, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:07.125526+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F003", "repeticao": 2, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:07.389192+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F004", "repeticao": 0, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:07.655764+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F004", "repeticao": 1, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:07.937168+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F004", "repeticao": 2, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:08.284936+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F098-MR7", "repeticao": 0, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:08.551713+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F098-MR7", "repeticao": 1, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:08.816905+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F098-MR7", "repeticao": 2, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:09.096514+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F099-MR2", "repeticao": 0, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:09.378356+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F099-MR2", "repeticao": 1, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:09.660182+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F099-MR2", "repeticao": 2, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:09.929077+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F099-MR3", "repeticao": 0, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:10.216876+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F099-MR3", "repeticao": 1, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:10.478013+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F099-MR3", "repeticao": 2, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:10.740572+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F099-MR4", "repeticao": 0, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:11.008685+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F099-MR4", "repeticao": 1, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:11.318928+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F099-MR4", "repeticao": 2, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:11.579537+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F099-MR6", "repeticao": 0, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:11.842197+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F099-MR6", "repeticao": 1, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:12.113158+00:00"}
+{"modelo": "qwen3-4b", "id_caso": "F099-MR6", "repeticao": 2, "resposta_bruta": "NÃO.", "resposta": "NAO", "horario": "2026-10-29T12:57:12.389187+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F000", "repeticao": 0, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:35.569078+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F000", "repeticao": 1, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:35.972141+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F000", "repeticao": 2, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:36.371376+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F001", "repeticao": 0, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:36.787034+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F001", "repeticao": 1, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:37.195852+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F001", "repeticao": 2, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:37.591389+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F002", "repeticao": 0, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:37.989679+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F002", "repeticao": 1, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:38.384538+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F002", "repeticao": 2, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:38.794586+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F003", "repeticao": 0, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:39.199991+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F003", "repeticao": 1, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:39.600550+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F003", "repeticao": 2, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:39.995572+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F004", "repeticao": 0, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:40.390772+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F004", "repeticao": 1, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:40.782021+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F004", "repeticao": 2, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:41.179300+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F098-MR7", "repeticao": 0, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:41.582394+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F098-MR7", "repeticao": 1, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:41.995564+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F098-MR7", "repeticao": 2, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:42.398994+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F099-MR2", "repeticao": 0, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:42.795611+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F099-MR2", "repeticao": 1, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:43.197482+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F099-MR2", "repeticao": 2, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:43.593682+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F099-MR3", "repeticao": 0, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:44.009907+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F099-MR3", "repeticao": 1, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:44.410065+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F099-MR3", "repeticao": 2, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:44.846860+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F099-MR4", "repeticao": 0, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:45.257002+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F099-MR4", "repeticao": 1, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:45.654722+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F099-MR4", "repeticao": 2, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:46.062395+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F099-MR6", "repeticao": 0, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:46.464193+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F099-MR6", "repeticao": 1, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:46.864316+00:00"}
+{"modelo": "qwen3-8b", "id_caso": "F099-MR6", "repeticao": 2, "resposta_bruta": "NÃO", "resposta": "NAO", "horario": "2026-10-29T13:00:47.275947+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F000", "repeticao": 0, "resposta_bruta": "NÃO. Na frase 1, os carros de corrida ainda estão na pista e não há menção à presença", "resposta": "NAO", "horario": "2026-10-29T13:06:58.703144+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F000", "repeticao": 1, "resposta_bruta": "NÃO. Na frase 1, os carros de corrida ainda estão na pista e não há menção à presença", "resposta": "NAO", "horario": "2026-10-29T13:07:00.090098+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F000", "repeticao": 2, "resposta_bruta": "NÃO. Na frase 1, os carros de corrida ainda estão na pista e não há menção à presença", "resposta": "NAO", "horario": "2026-10-29T13:07:01.486240+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F001", "repeticao": 0, "resposta_bruta": "NÃO. A frase 1 indica que ninguémestácozinhondoquiabounafrig", "resposta": "NAO", "horario": "2026-10-29T13:07:02.868182+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F001", "repeticao": 1, "resposta_bruta": "NÃO. A frase 1 indica que ninguémestácozinhondoquiabounafrig", "resposta": "NAO", "horario": "2026-10-29T13:07:04.275899+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F001", "repeticao": 2, "resposta_bruta": "NÃO. A frase 1 indica que ninguémestácozinhondoquiabounafrig", "resposta": "NAO", "horario": "2026-10-29T13:07:05.672516+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F002", "repeticao": 0, "resposta_bruta": "NÃO. A frase 1 menciona 'crianças' geralmente plural mas não especifica gênero nem indica interação", "resposta": "NAO", "horario": "2026-10-29T13:07:07.126067+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F002", "repeticao": 1, "resposta_bruta": "NÃO. A frase 1 menciona 'crianças' geralmente plural mas não especifica gênero nem indica interação", "resposta": "NAO", "horario": "2026-10-29T13:07:08.493555+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F002", "repeticao": 2, "resposta_bruta": "NÃO. A frase 1 menciona 'crianças' geralmente plural mas não especifica gênero nem indica interação", "resposta": "NAO", "horario": "2026-10-29T13:07:09.855493+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F003", "repeticao": 0, "resposta_bruta": "NÃO. A frase 1 fornece detalhes sobre dois jovens usando trajes elegantes num evento mas não", "resposta": "NAO", "horario": "2026-10-29T13:07:11.278404+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F003", "repeticao": 1, "resposta_bruta": "NÃO. A frase 1 fornece detalhes sobre dois jovens usando trajes elegantes num evento mas não", "resposta": "NAO", "horario": "2026-10-29T13:07:12.655835+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F003", "repeticao": 2, "resposta_bruta": "NÃO. A frase 1 fornece detalhes sobre dois jovens usando trajes elegantes num evento mas não", "resposta": "NAO", "horario": "2026-10-29T13:07:14.054424+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F004", "repeticao": 0, "resposta_bruta": "NÃO. A frase 1 menciona dois panda's deitado(juntos) mas nao", "resposta": "NAO", "horario": "2026-10-29T13:07:15.422879+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F004", "repeticao": 1, "resposta_bruta": "NÃO. A frase 1 menciona dois panda's deitado(juntos) mas nao", "resposta": "NAO", "horario": "2026-10-29T13:07:16.840116+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F004", "repeticao": 2, "resposta_bruta": "NÃO. A frase 1 menciona dois panda's deitado(juntos) mas nao", "resposta": "NAO", "horario": "2026-10-29T13:07:18.215508+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F098-MR7", "repeticao": 0, "resposta_bruta": "NÃO. Na frase 1, 'água fria' especifica uma temperatura particular da água, enquanto a frase", "resposta": "NAO", "horario": "2026-10-29T13:07:19.593955+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F098-MR7", "repeticao": 1, "resposta_bruta": "NÃO. Na frase 1, 'água fria' especifica uma temperatura particular da água, enquanto a frase", "resposta": "NAO", "horario": "2026-10-29T13:07:20.970754+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F098-MR7", "repeticao": 2, "resposta_bruta": "NÃO. Na frase 1, 'água fria' especifica uma temperatura particular da água, enquanto a frase", "resposta": "NAO", "horario": "2026-10-29T13:07:22.371866+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F099-MR2", "repeticao": 0, "resposta_bruta": "NÃO. Embora ambas as sentenças descrevam um cão preto e branco saltitando sobre/p", "resposta": "NAO", "horario": "2026-10-29T13:07:23.759016+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F099-MR2", "repeticao": 1, "resposta_bruta": "NÃO. Embora ambas as sentenças descrevam um cão preto e branco saltitando sobre/p", "resposta": "NAO", "horario": "2026-10-29T13:07:25.135277+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F099-MR2", "repeticao": 2, "resposta_bruta": "NÃO. Embora ambas as sentenças descrevam um cão preto e branco saltitando sobre/p", "resposta": "NAO", "horario": "2026-10-29T13:07:26.527012+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F099-MR3", "repeticao": 0, "resposta_bruta": "NÃO. A frase 1 menciona 'um' cachorro enquanto a frase 2 usa 'o', indicando", "resposta": "NAO", "horario": "2026-10-29T13:07:27.997276+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F099-MR3", "repeticao": 1, "resposta_bruta": "NÃO. A frase 1 menciona 'um' cachorro enquanto a frase 2 usa 'o', indicando", "resposta": "NAO", "horario": "2026-10-29T13:07:29.413697+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F099-MR3", "repeticao": 2, "resposta_bruta": "NÃO. A frase 1 menciona 'um' cachorro enquanto a frase 2 usa 'o', indicando", "resposta": "NAO", "horario": "2026-10-29T13:07:30.804686+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F099-MR4", "repeticao": 0, "resposta_bruta": "NÃO. Embora ambas as sentenças mencionem uma bola sendo puladaporumcachor", "resposta": "NAO", "horario": "2026-10-29T13:07:32.215121+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F099-MR4", "repeticao": 1, "resposta_bruta": "NÃO. Embora ambas as sentenças mencionem uma bola sendo puladaporumcachor", "resposta": "NAO", "horario": "2026-10-29T13:07:33.612318+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F099-MR4", "repeticao": 2, "resposta_bruta": "NÃO. Embora ambas as sentenças mencionem uma bola sendo puladaporumcachor", "resposta": "NAO", "horario": "2026-10-29T13:07:35.015836+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F099-MR6", "repeticao": 0, "resposta_bruta": "NÃO. A frase 1 informa sobre um evento específico (o cachorro pular) enquanto a frase 2", "resposta": "NAO", "horario": "2026-10-29T13:07:36.418538+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F099-MR6", "repeticao": 1, "resposta_bruta": "NÃO. A frase 1 informa sobre um evento específico (o cachorro pular) enquanto a frase 2", "resposta": "NAO", "horario": "2026-10-29T13:07:37.883716+00:00"}
+{"modelo": "tucano2-3.7b", "id_caso": "F099-MR6", "repeticao": 2, "resposta_bruta": "NÃO. A frase 1 informa sobre um evento específico (o cachorro pular) enquanto a frase 2", "resposta": "NAO", "horario": "2026-10-29T13:07:39.280837+00:00"}
